@@ -1,0 +1,438 @@
+[
+    [
+        "c:\\Anjali_New_sfdx\\MyNewProject\\force-app",
+        {
+            "sourcePath": "c:\\Anjali_New_sfdx\\MyNewProject\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1545827414636,
+            "changeTime": 1545827414636,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main",
+        {
+            "sourcePath": "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1545827414636,
+            "changeTime": 1545827414636,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545828628989,
+            "changeTime": 1545828628989,
+            "contentHash": "489ebd0afd9a1f71955dae4e94cace9d71206c49"
+        }
+    ],
+    [
+        "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1545827414636,
+            "changeTime": 1545827414636,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545828628986,
+            "changeTime": 1545828628986,
+            "contentHash": "161b9e892ca5142af69ab1bd073001c1f1b2eb5e"
+        }
+    ],
+    [
+        "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\classes\\DemoController1.cls",
+        {
+            "sourcePath": "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\classes\\DemoController1.cls",
+            "isDirectory": false,
+            "size": 930,
+            "modifiedTime": 1545827801763,
+            "changeTime": 1545827801763,
+            "contentHash": "834be9e2c81cdc08d18e6b82c4dabb208b9f3ca9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\classes\\DemoController1.cls-meta.xml",
+        {
+            "sourcePath": "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\classes\\DemoController1.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1545827801760,
+            "changeTime": 1545827801760,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\classes\\DemoController1Tests.cls",
+        {
+            "sourcePath": "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\classes\\DemoController1Tests.cls",
+            "isDirectory": false,
+            "size": 645,
+            "modifiedTime": 1545827801767,
+            "changeTime": 1545827801767,
+            "contentHash": "7153bbfe39bfdf0c11ad3971046165d451f889a0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\classes\\DemoController1Tests.cls-meta.xml",
+        {
+            "sourcePath": "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\classes\\DemoController1Tests.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1545827801766,
+            "changeTime": 1545827801766,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\pages",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\pages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545828628943,
+            "changeTime": 1545828628943,
+            "contentHash": "e8494f079fbbbe97277858296947b7fd68e1fa3a"
+        }
+    ],
+    [
+        "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\pages\\DemoPage1.page",
+        {
+            "sourcePath": "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\pages\\DemoPage1.page",
+            "isDirectory": false,
+            "size": 1543,
+            "modifiedTime": 1545827801771,
+            "changeTime": 1545827801771,
+            "contentHash": "16a369830317a2156046940e76919988f3eb8b48",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\pages\\DemoPage1.page-meta.xml",
+        {
+            "sourcePath": "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\pages\\DemoPage1.page-meta.xml",
+            "isDirectory": false,
+            "size": 285,
+            "modifiedTime": 1545827801770,
+            "changeTime": 1545827801770,
+            "contentHash": "6186cc83a54767aaad151995ad21fd7a77a07f47",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Anjali_New_sfdx\\MyNewProject",
+        {
+            "sourcePath": "c:\\Anjali_New_sfdx\\MyNewProject",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1545827616035,
+            "changeTime": 1545827616035,
+            "contentHash": "bb72da2eec93418f1d319e774d1425a32d820b4e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\pages\\DemoPage.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\pages\\DemoPage.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 284,
+            "modifiedTime": 1545828628941,
+            "changeTime": 1545828628941,
+            "contentHash": "89babdf5f0946b97846ee1b3f0122ec05325429a"
+        }
+    ],
+    [
+        "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\pages\\DemoPage.page",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\pages\\DemoPage.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1620,
+            "modifiedTime": 1545828628943,
+            "changeTime": 1545828628943,
+            "contentHash": "acfd2d2a2202cf62a069e1a1024df1fc426737f0"
+        }
+    ],
+    [
+        "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 368,
+            "modifiedTime": 1545828628951,
+            "changeTime": 1545828628951,
+            "contentHash": "a3e99bf5ece7dc17a62f08f3e6248d2de1a397ab"
+        }
+    ],
+    [
+        "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\objects\\Account\\fields\\New_Loc__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\objects\\Account\\fields\\New_Loc__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 366,
+            "modifiedTime": 1545828628951,
+            "changeTime": 1545828628951,
+            "contentHash": "a9e4d0eb1c4fa43c363864065d132c47e9f9afda"
+        }
+    ],
+    [
+        "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9719,
+            "modifiedTime": 1545828628959,
+            "changeTime": 1545828628959,
+            "contentHash": "a897ec36839244d63f76c93a8708bbffb36b88e5"
+        }
+    ],
+    [
+        "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9767,
+            "modifiedTime": 1545828628964,
+            "changeTime": 1545828628964,
+            "contentHash": "b30ac114db6ab2fade1d14e47bd254473613c44d"
+        }
+    ],
+    [
+        "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9719,
+            "modifiedTime": 1545828628978,
+            "changeTime": 1545828628978,
+            "contentHash": "f6764050685dbb6ff7998b4925a56bc41d0c77cf"
+        }
+    ],
+    [
+        "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9767,
+            "modifiedTime": 1545828628983,
+            "changeTime": 1545828628983,
+            "contentHash": "3c80cc778540dca19cfcbd8a6694b56c0ac287ee"
+        }
+    ],
+    [
+        "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\classes\\testabc.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\classes\\testabc.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1545828628985,
+            "changeTime": 1545828628985,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
+        }
+    ],
+    [
+        "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\classes\\testabc.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\classes\\testabc.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 25,
+            "modifiedTime": 1545828628986,
+            "changeTime": 1545828628986,
+            "contentHash": "9270908ccbcb29af986cd1031cb162cca33d6c04"
+        }
+    ],
+    [
+        "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5571,
+            "modifiedTime": 1545828628992,
+            "changeTime": 1545828628992,
+            "contentHash": "2f66e5f1293792e31709a2c35347945c40609e7d"
+        }
+    ],
+    [
+        "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5911,
+            "modifiedTime": 1545828628997,
+            "changeTime": 1545828628997,
+            "contentHash": "2535444839189286604ba83b7235fc82ccd84e25"
+        }
+    ],
+    [
+        "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5575,
+            "modifiedTime": 1545828629012,
+            "changeTime": 1545828629012,
+            "contentHash": "2f457f866f20312fd9fd9315d74425491ebd168c"
+        }
+    ],
+    [
+        "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 19088,
+            "modifiedTime": 1545828629026,
+            "changeTime": 1545828629026,
+            "contentHash": "f6adbe306802017a14dd4fe38380841450831d0b"
+        }
+    ],
+    [
+        "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545828628951,
+            "changeTime": 1545828628951,
+            "contentHash": "e7fec64e67762abaa452a3674eed0d55330d4b38"
+        }
+    ],
+    [
+        "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\objects\\Account",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545828628950,
+            "changeTime": 1545828628950,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545828628950,
+            "changeTime": 1545828628950,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ],
+    [
+        "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545828628983,
+            "changeTime": 1545828628983,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+        }
+    ],
+    [
+        "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Anjali_New_sfdx\\MyNewProject\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1545828629026,
+            "changeTime": 1545828629026,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
